@@ -1,0 +1,3 @@
+recana
+-membuat apps absensi pada mahasiswa
+-terdapat jadwal matakuliah
