@@ -1,1 +1,3 @@
 repository pengembangan sebuah aplikasi android pada praktikum bahasa pemrograman 3
+pertemuan 1
+-mengenai pengenalan android studio
